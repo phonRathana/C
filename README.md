@@ -90,10 +90,10 @@
 						</a>				
 		<a href="https://httpsrathanaphon.website.inof@"> 
                <div class="btn btn-outline-primary" target="_blank">
-					   <a href="" class="app-toggle"> 						           
-						 <br> 						       
+					   <a href="" class="app-toggle>           
+						 <br> 					       
 						 <Or>
-						 <br> 						         
+						 <br> 				         
 						 <Useour>
 						 <a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphon.websote.inof@/
 "websitesapp" 
