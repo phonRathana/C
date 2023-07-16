@@ -83,7 +83,7 @@
 			  <div class="Card-body text-center">
 					<h5 class="card-title">Website Subscription</h5>
 					   <p class="card-text">
-					   <p subscription"" To continue to use websites./https://httpsrathanaphon.website.inof@-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.inof@-" account.				 "description": "Business As a loyal partner sell technology"<Buy Subcription""></a>
+					   <p subscription"" To continue to use websites./https://httpsrathanaphon.website.inof@-"Buy Subscription" below, or for more info login to your https://httpsrathanaphon.website.inof@-"account."description": "Business As a loyal partner sell technology"<Buy Subcription""></a>
 		<a href="https://httpsrathanaphon.website.inof@/login">
           <div class="btn btn-outline-primary">
 						<Login>
@@ -91,10 +91,10 @@
 		<a href="https://httpsrathanaphon.website.inof@"> 
                <div class="btn btn-outline-primary" target="_blank">
 					   <a href="" class="app-toggle"> 						           
-						 <bar> 						       
+						 <br> 						       
 						 <Or>
-						 <bar> 						         
-						 <Use our>
+						 <br> 						         
+						 <Useour>
 						 <a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphon.websote.inof@/
 "websitesapp" 
 <div class="btn btn-outline-primary" target="_blank">								Website.https://httpsrathanaphon.website.inof@/app
