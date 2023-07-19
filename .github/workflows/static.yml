@@ -5,7 +5,7 @@ name: Deploy static content to Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["masters"]
+    branches: ["httpsrathanaphon.website.info@n"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -45,8 +45,8 @@ jobs:
         uses: actions/deploy-pages@v2
 
 
-		
-    
-		
-		
+
+
+
+
     
