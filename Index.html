@@ -1,1 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+     <title>hello would </title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+      <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font-awesome.min.css">  
+      <link rel="stylesheet" href="./css/style.css">   
+      <style type="text/css">
+        
+* {
+       margin:0;
+       padding:0;
+       list-style: none;
+       text-decoration: none;
+       transition: 0.3s;
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+       user-select: none;
+       outline: none;
+}
+    body {
+       background-color: blue;
+}
+   .ham {
+       width: 40px;
+       height: 40px;
+       background: black;
+       border-radius: 7px;
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-content: center;
+       z-index: 99;
+       position: fixed;
+       top: 15px;
+       right: 20px;
+}
+   .line1, .line2, .line3 {
+       background: yellow;
+       border-radius: 3px;
+       width: 25px;
+       height: 3px;
+       margin: 2px;
+}
+   .active .line1 {
+      transform: rotate(-35deg) translate(-5px, 5px);
+}
+  .active .line2 {
+     opacity: 0;
+}
+  .active .line3 {
+     transform: rotate(35deg) translate(-5px, -5px);
+}
+  .header {
+     width:90%;
+     height:100vh;
+}
+  .link{    
+     left: 0%;
+}
+ nav ul {
+    left: -50%;
+    position: fixed;
+    height: 100vh;
+    width: 50%;
+    background:#111;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+  ul h1 {
+    color: #fff;
+}
+  ul li{
+     text-align:center;
+     padding:15px 0;
+     width: 100%;
+}
+  ul li:hover{
+     background: yellow;
+     padding-left: 7%;
+     width:70%; 
+}
+    li a{
+     color: blue;
+}
+  .text{
+      padding:1px 10px 1px 10px;
+      color:#fff;
+}
+   </style>
+</head>
+<body>
+
+<header>
+  <nav>
+    <ul id="ul">
+      <h1>MENU</h1><br>
+         <li><a href="#">HOME</a></li>
+         <li><a href="#">PAGES</a></li>
+         <li><a href="#">ABOUT</a></li>
+    </ul>
+  </nav>
+  
+    <div id="hamMenu" class="ham" onclick="hamMenuClick()">
+      <div class="line1"></div>
+      <div class="line2"></div>
+      <div class="line3"></div>
+    </div>
+    
+    <br>
+    <h2 class="text" >Lorem Ipsum</h2>
+       <p class="text" >Lorem ipsum dolor sit ame</p>  
+    <br>
+      <img src="https://picsum.photos/500/300" width="100%">
+     <br>  
+    <p class="text" >Lorem ipsum dolor</p>  
+     <br>
+        <img src="https://picsum.photos/500/300" width="100%">
+     <br> 
+       <p class="text" >Lorem ipsum</p>
+    <br><br>   
+    <p align="center" ><font color="#A7A8AA" >2023 © Rathana.Phon</font></p>   
+     <br>
+</header>
+        
+</body>
+   <script>  
+    function hamMenuClick()
+{
+  document.getElementById("hamMenu").classList.toggle("active");
+  document.getElementById("ul").classList.toggle("link");
+}
+  </script>
+</html>
+
+
 
